@@ -4,7 +4,7 @@
 <title>Library System Class Diagram</title>
 </head>
 <body>
-<img src="Capture.jpeg">Dianing Romel</img>
+<img src="Capture.JPG">Dianing Romel</img>
 
 </body>
 </html>
